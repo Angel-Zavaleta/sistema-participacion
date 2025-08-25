@@ -1,0 +1,20 @@
+# <tipo>[alcance opcional]: <descripción>
+#
+# [cuerpo opcional]
+#
+# [pie(s) opcional(es)]
+#
+# Tipos válidos:
+# feat:     Nueva funcionalidad
+# fix:      Corrección de bug
+# docs:     Solo cambios en documentación
+# style:    Cambios que no afectan el significado del código
+# refactor: Cambio de código que no corrige bug ni añade funcionalidad
+# perf:     Cambio de código que mejora el rendimiento
+# test:     Añadir tests faltantes o corregir tests existentes
+# chore:    Cambios en el proceso de build o herramientas auxiliares
+#
+# Ejemplos:
+# feat(auth): add user registration endpoint
+# fix(database): resolve connection timeout issue
+# docs: update API documentation
