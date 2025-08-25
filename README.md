@@ -4,6 +4,10 @@
 ![Code Quality](https://github.com/tu-usuario/participacion/workflows/🎨%20Code%20Quality%20&%20Formatting/badge.svg)
 ![Deploy](https://github.com/tu-usuario/participacion/workflows/🚀%20Deploy/badge.svg)
 [![codecov](https://codecov.io/gh/tu-usuario/participacion/branch/main/graph/badge.svg)](https://codecov.io/gh/tu-usuario/participacion)
+![PHP Version](https://img.shields.io/badge/PHP-8.2%2B-blue.svg)
+![Laravel Version](https://img.shields.io/badge/Laravel-12.x-red.svg)
+![Node Version](https://img.shields.io/badge/Node-22%2B-green.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 Un sistema moderno para la participación ciudadana construido con Laravel 12, React, TypeScript e Inertia.js.
 
