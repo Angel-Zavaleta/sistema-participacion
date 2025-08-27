@@ -1,6 +1,6 @@
 # Sistema de Participación Ciudadana
 
-Un sistema para la participación ciudadana construido con Laravel 12 y React.
+Un sistema para la participación ciudadana construido con Laravel 12 y React. Esta es una versiona de migracion y aplicando mejores practicas de desarrollo, principios y react.
 
 ## Instalación
 
